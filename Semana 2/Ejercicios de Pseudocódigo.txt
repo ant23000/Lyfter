@@ -1,0 +1,41 @@
+Ejercicios de Pseudocódigo 
+
+Inicio
+Definir precio_producto
+Definir descuento
+Definir precio_final
+Mostrar "Ingrese el precio del producto"
+Pedir precio_producto
+
+Si (precio_producto < 100) entonces:
+descuento = precio_producto * 0.02
+Sino:
+Si (precio_producto >= 100) entonces:
+descuento = precio_producto * 0.1
+FinSi
+
+precio_final = precio_producto - descuento
+Mostrar "El descuento es de: "
+Mostrar descuento
+Mostrar "El precio con descuento es de: "
+Mostrar precio_final
+Fin
+
+
+
+Inicio
+Definir tiempo_segundos
+Definir tiempo_faltante
+definir diez_minutos
+Mostrar "Ingrese la cantidad de tiempo en segundos que desea calcular"
+Pedir tiempo_segundos
+diez_minutos = 60 * 10
+
+Si (tiempo_segundos >= diez_minutos) entonces:
+Mostrar "El tiempo ingresado es mayor a 10 minutos"
+Sino:
+Si (tiempo_segundos < diez_minutos) entonces:
+tiempo_faltante = diez_minutos - tiempo_segundos
+Mostrar "El tiempo ingresado es menor a 10 minutos, faltan tiempo_faltante segundos para llegar a 10 minutos"
+FinSi
+Fin

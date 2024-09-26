@@ -1,0 +1,43 @@
+Ejercicios de Algoritmos
+
+Algoritmo para ver un video en YouTube
+
+1. Inicio
+2. Encender el dispositivo con el que verá el video en YouTube
+3. Encontrar la aplicación de YouTube en el dispositivo
+4. Abrir la aplicación de YouTube
+5. Navegar entre los videos sugeridos por la aplicación
+6. Encontrar el video de interés
+7. Darle click al video
+8. Ver el video
+9. Fin
+    
+    
+
+Algoritmo de rutina diaria
+
+1. Inicio
+2. Despertar
+3. Hacer la cama
+4. Dirigirme al baño
+5. Tomar una ducha
+6. Salir del baño
+7. Encender la computadora
+8. Logearme para iniciar a trabajar
+9. Iniciar a trabajar
+10. Si estoy trabajando y es hora de un descanso:
+    1. Tomar un descanso
+    2. Tomar un cafecito
+    3. Si aun estoy en descanso y hay platos sucios:
+        1. Lavar los platos sucios
+    4. Sino, si aun estoy en descanso y no hay platos sucios:
+        1. Relax
+11. Si estoy trabajando y no es hora de un descanso:
+    1. Seguir trabajando como esclavo 
+12. Mientras que aun sea la hora de trabajo:
+    1. Trabajar, trabajar, trabajar, trabajar, trabajar sin parar
+13. Si estoy trabajando y no es hora de descanso y es hora de salir:
+    1. Dejar de trabajar
+14. Apagar la compu
+15. Mimir
+16. Fin
